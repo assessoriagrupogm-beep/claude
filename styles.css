@@ -108,6 +108,8 @@ a:hover { color: #15803d; }
   font-size: 16px;
   font-weight: 900;
 }
+.step-title { display: block; font-size: 15px; font-weight: 800; color: #111827; }
+.step-desc { display: block; margin-top: 2px; font-size: 14px; font-weight: 600; line-height: 1.5; color: #6b7280; }
 
 /* "Ideal for" fit rows */
 .fit-row {
